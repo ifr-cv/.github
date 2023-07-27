@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### 公开原则
+Main Repo不公开, 如需公开某个代码片段或功能, 需新建Repo. 辅助工具可公开
+
+
 <!--
 
 **Here are some ideas to get you started:**
